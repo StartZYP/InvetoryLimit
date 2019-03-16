@@ -1,0 +1,29 @@
+InventoryLimit:
+  0:
+    IsOpen: true
+    AllowID: 16-33-25-38
+  1:
+    IsOpen: true
+    AllowID: 16-33-25-38
+  2:
+    IsOpen: true
+    AllowID: 16-33-25-38
+  3:
+    IsOpen: true
+    AllowID: 16-33-25-38
+  4:
+    IsOpen: true
+    AllowID: 16-33-25-38
+  5:
+    IsOpen: true
+    AllowID: 16-33-25-38
+  6:
+    IsOpen: true
+    AllowID: 16-33-25-38
+  7:
+    IsOpen: true
+    AllowID: 16-33-25-38
+  8:
+    IsOpen: true
+    AllowID: 16-33-25-38
+Msg: "§c§e此格放的物品不正确"

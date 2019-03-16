@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="InvetoryLimit:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InvetoryLimit_jar</output-path>
+    <root id="root">
+      <element id="archive" name="InvetoryLimit.jar">
+        <element id="module-output" name="InvetoryLimit" />
+      </element>
+    </root>
+  </artifact>
+</component>
